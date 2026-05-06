@@ -1,4 +1,4 @@
-# 🗂️ Obsidian Chat Summary — Claude Skill
+# 🗂️ Obsidian Chat Summary - Claude Skill
 
 > Turn any Claude conversation into a structured Obsidian note with a single word.
 
